@@ -19,7 +19,7 @@ Este proyecto es un selector dinámico de emojis construido con **HTML**, **CSS*
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/jaimefranko/simpleemojis.git
+   git clone https://github.com/jaimefranko/SimpleEmojisJs
    ```
 
 2. Navega al directorio del proyecto:
