@@ -1,5 +1,5 @@
 
-# SimpleEmojis: Selector de Emojis con Categorías y Búsqueda
+# SimpleEmojisJS: Selector de Emojis con Categorías y Búsqueda
 
 Este proyecto es un selector dinámico de emojis construido con **HTML**, **CSS**, **JavaScript**, y **Bootstrap 4**. Permite a los usuarios seleccionar emojis de diversas categorías y admite la búsqueda de emojis en **inglés** y **español**. El selector incluye categorías como **Caritas y Emociones**, **Personas y Cuerpo**, **Animales y Naturaleza**, **Comida y Bebida**, y **Actividades**.
 
