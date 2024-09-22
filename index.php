@@ -7,8 +7,8 @@ DEFINE("SERVER","https://jaimefranko.com/simpleemojijs/");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simple Emoji JS</title>
-    <link src="<?php echo SERVER;?>css/bootstrap.min.css" rel="stylesheet">
-    <link src="<?php echo SERVER;?>css/simpleemoji.css" rel="stylesheet">
+    <link href="<?php echo SERVER;?>css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo SERVER;?>css/simpleemoji.css" rel="stylesheet">
 </head>
 <body>
 
