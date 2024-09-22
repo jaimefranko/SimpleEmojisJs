@@ -12,6 +12,7 @@ Este proyecto es un selector dinámico de emojis construido con **HTML**, **CSS*
 - **Bootstrap 4**: El selector utiliza Bootstrap para un diseño moderno y responsivo.
 
 ## Vista Previa
+[![Demo en vivo](https://img.shields.io/badge/Demo-Live-brightgreen.svg)](https://jaimefranko.com/simpleemojijs/)
 
 ![Vista previa del Selector de Emojis](https://jaimefranko.com/wp-content/uploads/2024/09/simpleemojis.png)
 
