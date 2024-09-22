@@ -114,7 +114,7 @@ Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repos
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/jaimefranko/SimpleEmojisJs/blob/f5739aec3af766c0784f2144ef873068ee8b468f/LICENSE_MIT.md) para más detalles.
 
 ## Contacto
 
